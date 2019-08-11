@@ -1,30 +1,101 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: University of Duisburg-Essen
+    i18n: ude_lecture
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Lectures
+    i18n: ude_lecture_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: April, 2019 - Present
+    i18n: ude_lecture_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Econophysics exercises and data analysis laboratory - Lecturer
+    i18n: ude_lecture_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: University of Duisburg-Essen
+    i18n: ude_phd
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Ph. D. description
+    i18n: ude_phd_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: October, 2018 - Present
+    i18n: ude_phd_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Ph. D. Physics - Student
+    i18n: ude_phd_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: National University of Colombia
+    i18n: unal_lecture
+  desc:
+    detail: Lecture
+    i18n: unal_lecture_desc
+  date:
+    detail: February 2015 - June 2018
+    i18n: unal_lecture_date
+  job:
+    detail: Physics and calculus - Lecturer
+    i18n: unal_lecture_job
+  icon: fa-plus-square
+
+- name:
+    detail: Autonomous University of Manizales
+    i18n: uam_lecture
+  desc:
+    detail: Lecture
+    i18n: uam_lecture_desc
+  date:
+    detail: January 2017 - May 2018
+    i18n: uam_lecture_date
+  job:
+    detail: Physics and calculus - Lecturer
+    i18n: uam_lecture_job
+  icon: fa-plus-square
+
+- name:
+    detail: National University of Colombia
+    i18n: unal_pgd
+  desc:
+    detail: PgD description
+    i18n: unal_pgd_desc
+  date:
+    detail: August 2015 - August 2016
+    i18n: unal_pgd_date
+  job:
+    detail: PgD. Strategic Project Management - Student
+    i18n: unal_pgd_job
+  icon: fa-plus-square
+
+- name:
+    detail: National University of Colombia
+    i18n: unal_master
+  desc:
+    detail: Master description
+    i18n: unal_master_desc
+  date:
+    detail: August 2012 - August 2015
+    i18n: unal_master_date
+  job:
+    detail: M. Sc. Physics - Student
+    i18n: unal_master_job
+  icon: fa-plus-square
+
+- name:
+    detail: National University of Colombia
+    i18n: unal_bachelor
+  desc:
+    detail: Bachelor description
+    i18n: unal_bachelor_desc
+  date:
+    detail: August 2007 - August 2012
+    i18n: unal_bachelor_date
+  job:
+    detail: B. Sc. Engineering Physics - Student
+    i18n: unal_bachelor_job
   icon: fa-plus-square
