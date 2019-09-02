@@ -1,25 +1,25 @@
 {
   "website":{
-    "title": "杰克的博客"
+    "title": "Juan Camilo Henao Londoño"
   },
   "nav":{
-    "home": "首页",
-    "about_me": "关于我",
-    "skills": "技能",
-    "projects": "项目",
-    "career": "职业",
-    "blog": "博客",
-    "link": "友情链接"
+    "home": "Home",
+    "about_me": "Acerca de mi",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "career": "Carrera",
+    "blog": "Blog",
+    "link": "Contacto"
   },
   "about_me":{
-    "about_me": "关于我",
-    "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "about_me": "Acerca de mi",
+    "des": "Soy un colombiano que le gusta aprender, viajar y hacer deportes. "
   },
   "skills":{
-    "my_skills": "我的技能"
+    "my_skills": "Habilidades"
   },
   "projects":{
-    "my_projects": "我的项目",
+    "my_projects": "Mis Proyectos",
     "jalpc": "这是一个我自己的GitHub项目.",
     "cpython": "这是一个别人的GitHub项目.",
     "familycode": "这是另外一个项目."
@@ -44,11 +44,11 @@
     "college_job": "学生"
   },
   "blog":{
-    "my_blog": "我的博客"
+    "my_blog": "Mi Blog"
   },
   "link":{
-    "link": "友情链接",
-    "view": "次访问"
+    "link": "Contacto",
+    "view": "views"
   }
 
 }

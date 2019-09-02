@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a href="https://www.uni-due.de/en/index.php">University Duisburg-Essen</a>
+    detail: <a href="https://www.uni-due.de/en/index.php">University of Duisburg-Essen</a>
     i18n: ude_lecture
   desc:
     detail: During the summer semester I solve the exercises of the
@@ -20,7 +20,7 @@
   present: true
 
 - name:
-    detail: <a href="https://www.uni-due.de/en/index.php">University Duisburg-Essen</a>
+    detail: <a href="https://www.uni-due.de/en/index.php">University of Duisburg-Essen</a>
     i18n: ude_phd
   desc:
     detail: I work in a really new and interesting field of physics&#58; econophysics.
