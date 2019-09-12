@@ -38,7 +38,7 @@
   present: true
 
 - name:
-    detail: <a href="http://unal.edu.co/en.html">National University of Colombia</a>
+    detail: <a href="http://unal.edu.co/en.html">National University of Colombia at Manizales</a>
     i18n: unal_lecture
   desc:
     detail: I taught physics, physics laboratory and calculus in the
@@ -70,7 +70,7 @@
   icon: fa-plus-square
 
 - name:
-    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia</a>
+    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia at Manizales</a>
     i18n: unal_pgd
   desc:
     detail: <a href="http://www.manizales.unal.edu.co/menu/programas-academicos/posgrados/especializacion-en-gerencia-estrategica-de-proyectos/">Postgraduate Diploma</a>.
@@ -85,7 +85,7 @@
   icon: fa-plus-square
 
 - name:
-    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia</a>
+    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia at Manizales</a>
     i18n: unal_master
   desc:
     detail: During my <a href="http://www.fcen.unal.edu.co/index.php?id=329">Master</a>
@@ -104,7 +104,7 @@
   icon: fa-plus-square
 
 - name:
-    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia</a>
+    detail:  <a href="http://unal.edu.co/en.html">National University of Colombia at Manizales</a>
     i18n: unal_bachelor
   desc:
     detail: My first serious step in the academy. My <a href="http://www.fcen.unal.edu.co/index.php?id=316">Bachelor</a>

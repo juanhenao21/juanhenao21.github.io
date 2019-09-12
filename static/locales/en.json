@@ -9,11 +9,11 @@
     "projects": "Projects",
     "career": "Career",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Contact"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Colombian guy that really likes to learn, travel and make sports. I made my B. Sc. and my M. Sc. in the National University of Colombia in Manizales. During my master I live around one year in Montreal. I worked as lecturer in the National University of Colombia in Manizales and the Autonomous University of Manizales. Currently, I am a Ph. D. student at the University of Duisburg-Essen in Germany. In this website I want to show you a little of my professional life and share some experiences and knowdlege."
+    "des": "I am a Colombian guy that really likes to learn, travel and make sports. I made my B. Sc. and my M. Sc. in the National University of Colombia at Manizales. During my master I live around one year in Montreal. I worked as lecturer in the National University of Colombia at Manizales and the Autonomous University of Manizales. Currently, I am a Ph. D. student at the University of Duisburg-Essen in Germany. In this website I want to show you a little of my professional life and share some experiences and knowdlege."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -34,7 +34,7 @@
     "ude_phd_desc": "I work in a really new and interesting field of physics&#58; econophysics. Econophyics is an interdisciplinary research field that uses concepts in physics to solve problems in economics. You can take a look of my work in my <a href='https://github.com/juanhenao21/econophysics'>GitHub repository</a>.",
     "ude_phd_date": "October, 2018 - Present",
     "ude_phd_job": "Ph. D. Physics - Studen",
-    "unal_lecture": "<a href='http://unal.edu.co/en.html'>National University of Colombia</a>",
+    "unal_lecture": "<a href='http://unal.edu.co/en.html'>National University of Colombia at Manizales</a>",
     "unal_lecture_desc": "I taught physics, physics laboratory and calculus in the <a href='http://www.fcen.unal.edu.co/'>Faculty of Exact and Natural Sciences</a> for engineering.",
     "unal_lecture_date": "February 2015 - June 2018",
     "unal_lecture_job": "Physics and calculus - Lecturer",
@@ -42,15 +42,15 @@
     "uam_lecture_desc": "I taught physics, physics laboratory and calculus in the <a href='https://www.autonoma.edu.co/departamentos-academicos/departamento-de-fisica-y-matematica'>Department of Physics and Mathematics</a> for engineering.",
     "uam_lecture_date": "January 2017 - May 2018",
     "uam_lecture_job": "Physics and calculus - Lecturer",
-    "unal_pgd": "<a href='http://unal.edu.co/en.html'>National University of Colombia</a>",
+    "unal_pgd": "<a href='http://unal.edu.co/en.html'>National University of Colombia at Manizales</a>",
     "unal_pgd_desc": "<a href='http://www.manizales.unal.edu.co/menu/programas-academicos/posgrados/especializacion-en-gerencia-estrategica-de-proyectos/'>Postgraduate Diploma</a>. One year learning about management and projects. A small break from physics to learn something from a different field.",
     "unal_pgd_date": "August 2015 - August 2016",
     "unal_pgd_job": "PgD. Strategic Project Management - Student",
-    "unal_master": "<a href='http://unal.edu.co/en.html'>National University of Colombia</a>",
+    "unal_master": "<a href='http://unal.edu.co/en.html'>National University of Colombia at Manizales</a>",
     "unal_master_desc": "During my <a href='http://www.fcen.unal.edu.co/index.php?id=329'>Master</a> I worked on scanning electron microscopy and image processing. I made an internship in the <a href='https://www.iro.umontreal.ca/~labimage/index.html'>Image Processing Laboratory</a> at the <a href='https://www.umontreal.ca/en/'>University of Montreal</a>. Here you can check my <a href='http://bdigital.unal.edu.co/48737/'>thesis</a>.",
     "unal_master_date": "August 2012 - August 2015",
     "unal_master_job": "M. Sc. Physics - Student",
-    "unal_bachelor": "<a href='http://unal.edu.co/en.html'>National University of Colombia</a>",
+    "unal_bachelor": "<a href='http://unal.edu.co/en.html'>National University of Colombia at Manizales</a>",
     "unal_bachelor_desc": "My first serious step in the academy. My <a href='http://www.fcen.unal.edu.co/index.php?id=316'>Bachelor</a> was an amazing time to learn the basics and discover a new world.",
     "unal_bachelor_date": "August 2007 - August 2012",
     "unal_bachelor_job": "B. Sc. Engineering Physics - Student"

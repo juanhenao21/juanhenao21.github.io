@@ -10,3 +10,6 @@
 
 - locale: fr
   flag: /static/assets/img/flags/France.png
+
+- locale: de
+  flag: /static/assets/img/flags/Germany.png
