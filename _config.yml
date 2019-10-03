@@ -12,15 +12,16 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Juan Camilo Henao Londono  # Be used at blog posts' author.
-  first_name: Juan Camilo  # Be used at index page about me section.
+  first_name: uan Camilo  # Be used at index page about me section.
   last_name: Henao Londono  # Be used at index page about me section.
   avatar: /static/assets/img/landing/Juan_Henao.jpg  # upload your avatar at directory and edit it.
   github_username: juanhenao21 # Leave blank if you don't have now
   linkedin_id: # Leave blank if you don't have now
   facebook_username: juanhenao21 # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
+  instagram_username: juanhenao_21 # Leave blank if you don't have now
   email: juanhenao21@gmail.com # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://www.google.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-ubuntu
