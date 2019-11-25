@@ -2458,7 +2458,6 @@ body {
         color: #fff;
       }
       color: #fff;
-      height: auto;
       display: block;
       font-size: 14px;
       background: #3385FF;
@@ -2502,7 +2501,7 @@ body {
     margin-top: 15px;
     border-radius: 5px;
     font-size: 12px;
-    padding: 10px;
+    padding: 15px;
     height: auto;
   }
   .header-back {
@@ -2815,4 +2814,13 @@ body {
       }
     }
   }
+}
+
+.divContainer
+{
+  vertical-align: middle;
+}
+.divContainer > *
+{
+  vertical-align: middle;
 }
