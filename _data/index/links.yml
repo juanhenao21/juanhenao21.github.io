@@ -1,18 +1,54 @@
 # links section data
-- last_name: CV
-  first_name:
-  desc: Download or visit
-  website: https://www.google.com
+- cv_name:
+    detail: CV
+    i18n: cv_id
+  cv_desc:
+    detail: Download
+    i18n: cv_download
+  mail_name: E-mail
+  personal_desc:
+    detail: Personal
+    i18n: personal_mail
+  personal_mail: juanhenao21@gmail.com
+  work_desc:
+    detail: Work
+    i18n: work_mail
+  work_mail: juan.henao-londono@uni-duisburg-essen.de
+  website:
   email: ceo@google.com
 
-- last_name: E-mail
-  first_name:
-  desc: Personal
+- cv_name:
+    detail: CV
+    i18n: cv_id
+  cv_desc:
+    detail: Download
+    i18n: cv_download
+  mail_name: E-mail
+  personal_desc:
+    detail: Personal
+    i18n: personal_mail
+  personal_mail: juanhenao21@gmail.com
+  work_desc:
+    detail: Work
+    i18n: work_mail
+  work_mail: juan.henao-londono@uni-duisburg-essen.de
   website:
-  email: juanhenao21@gmail.com
+  email: ceo@google.com
 
-- last_name: E-mail
-  first_name:
-  desc: Work
+- cv_name:
+    detail: CV
+    i18n: cv_id
+  cv_desc:
+    detail: Download
+    i18n: cv_download
+  mail_name: E-mail
+  personal_desc:
+    detail: Personal
+    i18n: personal_mail
+  personal_mail: juanhenao21@gmail.com
+  work_desc:
+    detail: Work
+    i18n: work_mail
+  work_mail: juan.henao-londono@uni-duisburg-essen.de
   website:
-  email: juan.henao-londono@uni-duisburg-essen.de
+  email: ceo@google.com
