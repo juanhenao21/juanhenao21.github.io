@@ -59,8 +59,11 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
-    "view": "views"
+    "link": "Contacto",
+    "cv_id": "Currículum Vitae",
+    "cv_download": "Descargar",
+    "personal_mail": "Holis",
+    "work_mail": "Trabajo"
   }
 
 }

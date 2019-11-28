@@ -59,8 +59,11 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
-    "view": "views"
+    "link": "Contact",
+    "cv_id": "Curriculum Vitae",
+    "cv_download": "Download",
+    "personal_mail": "Personal",
+    "work_mail": "Work"
   }
 
 }
