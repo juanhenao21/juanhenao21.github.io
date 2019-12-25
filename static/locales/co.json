@@ -13,7 +13,8 @@
   },
   "about_me":{
     "about_me": "Acerca de mí",
-    "des": "Soy un Colombiano que le encanta aprender, viajar y hacer deporte. Hice mi pregrado y maestría en la Universidad Nacional de Colombia Sede Manizales. Durante mi maestría viví alrededor de un año en Montreal. Trabajé como docente en la Universidad Nacional de Colombia Sede Manizales y la Universidad Autonoma de Manizales. En este momento soy estudiante de doctorado en la Universidad de Duisburg-Essen en Alemania. En este sitio web quiero mostrar un poco de mi vida profesional y compartir algunas experiencias y conocimientos."
+    "des": "Soy un Colombiano que le encanta aprender, viajar y hacer deporte. Hice mi pregrado y maestría en la Universidad Nacional de Colombia Sede Manizales. Durante mi maestría viví alrededor de un año en Montreal. Trabajé como docente en la Universidad Nacional de Colombia Sede Manizales y la Universidad Autonoma de Manizales. En este momento soy estudiante de doctorado en la Universidad de Duisburg-Essen en Alemania. En este sitio web quiero mostrar un poco de mi vida profesional y compartir algunas experiencias y conocimientos.",
+    "cv": "cv_juan_henao_es.pdf"
   },
   "skills":{
     "my_skills": "My Skills"
