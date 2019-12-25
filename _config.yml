@@ -19,9 +19,9 @@ author:  # change following line to your infomation.
   linkedin_id: # Leave blank if you don't have now
   facebook_username: juanhenao21 # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
-  instagram_username: juanhenao_21 # Leave blank if you don't have now
+  instagram_username: _juanhenao21 # Leave blank if you don't have now
   email: juanhenao21@gmail.com # Leave blank if you don't have now
-  cv: http://www.google.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: cv_juan_henao_en.pdf # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-ubuntu
@@ -29,8 +29,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-line-graph
     - name: icon-git
-  desc: I am a Colombian guy that really likes to learn, travel and make sports. I made my B. Sc. and my M. Sc. in the National University of Colombia in Manizales.
-        During my master I live around one year in Montreal. I worked as lecturer in the National University of Colombia in Manizales and the Autonomous University
+  desc: I am a Colombian guy who enjoy to learn, travel and practice sports. I made my B. Sc. and my M. Sc. in the National University of Colombia at Manizales.
+        During my master I lived around one year in Montreal. I worked as lecturer in the National University of Colombia in Manizales and the Autonomous University
         of Manizales. Currently, I am a Ph. D. student at the University of Duisburg-Essen in Germany. In this website I want to show you a little of my professional
         life and share some experiences and knowdlege. # Describe yourself.
 
