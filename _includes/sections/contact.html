@@ -18,21 +18,46 @@
         <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         {% endif %}
         <div class="team-member">
-            {% if loopindex == 1 %}
+<!-- This part only works with the main version-->
+            {% if forloop.first %}
+            <h4><span class="navy">{{ link.cv_name }} </span> {{ link.first_name }}</h4>
+            <p>{{ link.cv_desc }}</p
+            <ul class="list-inline social-icon">
+                <a href="{{site.url}}/docs/{{ site.author.cv }}" target="blank"><i class="fa fa-download"></i></i></a>
+            </ul>
+            {% endif %}
+            {% if forloop.index == 2 %}
+            <h4><span class="navy">{{ link.mail_name }}</span> {{ link.first_name }}</h4>
+            <p>{{ link.work_desc }}</p
+            <ul class="list-inline social-icon">
+                <a href="mailto:{{ link.work_mail }}"><i class="fa fa-envelope-o"></i></a>
+            </ul>
+            {% endif %}
+            {% if forloop.last %}
+            <h4><span class="navy">{{ link.mail_name }}</span> {{ link.first_name }}</h4>
+            <p>{{ link.personal_desc }}</p
+            <ul class="list-inline social-icon">
+                <a href="mailto:{{ link.personal_mail }}"><i class="fa fa-envelope-o"></i></a>
+            </ul>
+            {% endif %}
+<!-- This part only works if used with the languages
+            {% if forloop.first %}
             <h4><span data-i18n="link.cv_id" class="navy">{{ link.cv_name }} </span> {{ link.first_name }}</h4>
             <p data-i18n="link.cv_download">{{ link.cv_desc }}</p>
             <ul class="list-inline social-icon">
                 <li><a href="{{ link.website }}" target="blank"><i class="fa fa-download"></i></i></a>
                 </li>
             </ul>
-            {% else if loopindex == 2 %}
+            {% endif %}
+            {% if forloop.index == 2 %}
             <h4><span class="navy">{{ link.mail_name }}</span> {{ link.first_name }}</h4>
             <p data-i18n="link.personal_mail">{{ link.personal_desc }}</p>
             <ul class="list-inline social-icon">
                 <li><a href="mailto:{{ link.personal_mail }}"><i class="fa fa-envelope-o"></i></a>
                 </li>
             </ul>
-            {% else %}
+            {% endif %}
+            {% if forloop.last %}
             <h4><span class="navy">{{ link.mail_name }}</span> {{ link.first_name }}</h4>
             <p data-i18n="link.work_mail">{{ link.work_desc }}</p>
             <ul class="list-inline social-icon">
@@ -40,6 +65,7 @@
                 </li>
             </ul>
             {% endif %}
+-->
         </div>
         </div>
     {% endfor %}

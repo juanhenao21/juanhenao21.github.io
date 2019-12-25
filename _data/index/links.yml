@@ -1,54 +1,88 @@
 # links section data
-- cv_name:
-    detail: CV
-    i18n: cv_id
-  cv_desc:
-    detail: Download
-    i18n: cv_download
+# ====================================================
+# This part works when the different languages are activated
+# - cv_name:
+#     detail: CV
+#     i18n: cv_id
+#   cv_desc:
+#     detail: Download
+#     i18n: cv_download
+#   mail_name: E-mail
+#   personal_desc:
+#     detail: Personal
+#     i18n: personal_mail
+#   personal_mail: juanhenao21@gmail.com
+#   work_desc:
+#     detail: Work
+#     i18n: work_mail
+#   work_mail: juan.henao-londono@uni-duisburg-essen.de
+#   website:
+#   email: ceo@google.com
+
+# - cv_name:
+#     detail: CV
+#     i18n: cv_id
+#   cv_desc:
+#     detail: Download
+#     i18n: cv_download
+#   mail_name: E-mail
+#   personal_desc:
+#     detail: Personal
+#     i18n: personal_mail
+#   personal_mail: juanhenao21@gmail.com
+#   work_desc:
+#     detail: Work
+#     i18n: work_mail
+#   work_mail: juan.henao-londono@uni-duisburg-essen.de
+#   website:
+#   email: ceo@google.com
+
+# - cv_name:
+#     detail: CV
+#     i18n: cv_id
+#   cv_desc:
+#     detail: Download
+#     i18n: cv_download
+#   mail_name: E-mail
+#   personal_desc:
+#     detail: Personal
+#     i18n: personal_mail
+#   personal_mail: juanhenao21@gmail.com
+#   work_desc:
+#     detail: Work
+#     i18n: work_mail
+#   work_mail: juan.henao-londono@uni-duisburg-essen.de
+#   website:
+#   email: ceo@google.com
+
+# =================================================
+# This part work with the main version working
+- cv_name: CV
+  cv_desc: Download
   mail_name: E-mail
-  personal_desc:
-    detail: Personal
-    i18n: personal_mail
+  personal_desc: Personal
   personal_mail: juanhenao21@gmail.com
-  work_desc:
-    detail: Work
-    i18n: work_mail
+  work_desc: Work
   work_mail: juan.henao-londono@uni-duisburg-essen.de
   website:
   email: ceo@google.com
 
-- cv_name:
-    detail: CV
-    i18n: cv_id
-  cv_desc:
-    detail: Download
-    i18n: cv_download
+- cv_name: CV
+  cv_desc: Download
   mail_name: E-mail
-  personal_desc:
-    detail: Personal
-    i18n: personal_mail
+  personal_desc: Personal
   personal_mail: juanhenao21@gmail.com
-  work_desc:
-    detail: Work
-    i18n: work_mail
+  work_desc: Work
   work_mail: juan.henao-londono@uni-duisburg-essen.de
   website:
   email: ceo@google.com
 
-- cv_name:
-    detail: CV
-    i18n: cv_id
-  cv_desc:
-    detail: Download
-    i18n: cv_download
+- cv_name: CV
+  cv_desc: Download
   mail_name: E-mail
-  personal_desc:
-    detail: Personal
-    i18n: personal_mail
+  personal_desc: Personal
   personal_mail: juanhenao21@gmail.com
-  work_desc:
-    detail: Work
-    i18n: work_mail
+  work_desc: Work
   work_mail: juan.henao-londono@uni-duisburg-essen.de
   website:
   email: ceo@google.com
