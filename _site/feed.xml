@@ -5,55 +5,12 @@
     <description>Juan's blog, use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Dec 2019 23:42:02 +0100</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 23:42:02 +0100</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2020 20:46:52 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2020 20:46:52 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>code snippet test</title>
-        <description>&lt;p&gt;This is a raw snippet:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hello world
-123
-This is a text snippet
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This is a JavaScript snippet:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const add = (a, b) =&amp;gt; a + b
-const minus = (a, b) =&amp;gt; a - b
-
-console.log(add(100,200))  // 300
-console.log(minus(100,200))  // -100
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This is a Python snippet:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def say_hello():
-    print(&quot;hello world!&quot;)
-
-say_hello()   // &quot;hello world!&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Side note comment: applied a bug fix similar to &lt;a href=&quot;https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9&quot;&gt;this commit&lt;/a&gt; to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked &lt;a href=&quot;https://github.com/jarrekk/Jalpc/issues/97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/duisburg/2017/12/21/test-code-snippets.html</link>
-        <guid isPermaLink="true">http://localhost:4000/duisburg/2017/12/21/test-code-snippets.html</guid>
-        
-        <category>Jalpc</category>
-        
-        <category>Jekyll</category>
-        
-        
-        <category>Duisburg</category>
-        
-      </item>
-    
-      <item>
-        <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
+        <title>Como apostillar el diploma de la Universidad Duisburg-Essen</title>
         <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
 
 &lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jarrekk.com&quot;&gt;http://www.jarrekk.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website(make sure you have basic knowledge of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, if you want to custom css/js &lt;a href=&quot;https://github.com/npm/npm&quot;&gt;NPM&lt;/a&gt; is needed):&lt;/p&gt;
@@ -98,16 +55,59 @@ say_hello()   // &quot;hello world!&quot;
 
 &lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/scholarships/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/scholarships/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/duisburg/2020/01/23/3-steps-to-setup-website-with-Jalpc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/duisburg/2020/01/23/3-steps-to-setup-website-with-Jalpc.html</guid>
+        
+        <category>Apostilla</category>
+        
+        <category>Universidad Duisburg-Essen</category>
+        
+        
+        <category>Duisburg</category>
+        
+      </item>
+    
+      <item>
+        <title>code snippet test</title>
+        <description>&lt;p&gt;This is a raw snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hello world
+123
+This is a text snippet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This is a JavaScript snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const add = (a, b) =&amp;gt; a + b
+const minus = (a, b) =&amp;gt; a - b
+
+console.log(add(100,200))  // 300
+console.log(minus(100,200))  // -100
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This is a Python snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def say_hello():
+    print(&quot;hello world!&quot;)
+
+say_hello()   // &quot;hello world!&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Side note comment: applied a bug fix similar to &lt;a href=&quot;https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9&quot;&gt;this commit&lt;/a&gt; to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked &lt;a href=&quot;https://github.com/jarrekk/Jalpc/issues/97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/duisburg/2017/12/21/test-code-snippets.html</link>
+        <guid isPermaLink="true">http://localhost:4000/duisburg/2017/12/21/test-code-snippets.html</guid>
         
         <category>Jalpc</category>
         
         <category>Jekyll</category>
         
         
-        <category>Scholarships</category>
+        <category>Duisburg</category>
         
       </item>
     

@@ -1,16 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Market impact
-  i18n: market_impact
+- name: Market Response
+  i18n: market_response
   gh_user: juanhenao21
-  repo: econophysics
+  repo: market_response_2008
   img: /static/assets/img/landing/market.jpg
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Market response analysis of the year 2008 using NASDAQ TAQ data. All the documentation can be found <a href="http://www.juanhenao21.github.io/docs/documentation_market_response_2008/index.html">here</a>
 
 - name: Website
   i18n: website
   gh_user: juanhenao21
   repo: juanhenao21.github.io
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Code used to create this website.
