@@ -6,7 +6,8 @@
   gh_user: juanhenao21
   repo: market_response_2008
   img: /static/assets/img/landing/market.jpg
-  desc: Market response analysis of the year 2008 using NASDAQ TAQ data. All the documentation can be found <a href="http://www.juanhenao21.github.io/docs/documentation_market_response_2008/index.html">here</a>
+  desc: Market response analysis of the year 2008 using NASDAQ TAQ data.
+  doc: documentation_market_response_2008/index.html
 
 - name: Website
   i18n: website
