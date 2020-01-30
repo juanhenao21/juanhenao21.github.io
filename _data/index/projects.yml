@@ -1,13 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Market Response
-  i18n: market_response
+- name: Response Functions
+  i18n: response_functions
   gh_user: juanhenao21
-  repo: market_response_2008
+  repo: response_functions_year
   img: /static/assets/img/landing/market.jpg
-  desc: Market response analysis of the year 2008 using NASDAQ TAQ data.
-  doc: documentation_market_response_2008/index.html
+  desc: Response functions analysis of the year 2008 using NASDAQ TAQ data. All the documentation can be found <a href="https://response-functions-year.readthedocs.io/en/latest/">here</a>.
 
 - name: Website
   i18n: website
