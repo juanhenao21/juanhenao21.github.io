@@ -5,59 +5,110 @@
     <description>Juan's blog, use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jan 2020 21:21:27 +0100</pubDate>
-    <lastBuildDate>Thu, 30 Jan 2020 21:21:27 +0100</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2020 21:41:33 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2020 21:41:33 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Como apostillar el diploma de la Universidad Duisburg-Essen</title>
-        <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
+        <description>&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;AVISO&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jarrekk.com&quot;&gt;http://www.jarrekk.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website(make sure you have basic knowledge of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, if you want to custom css/js &lt;a href=&quot;https://github.com/npm/npm&quot;&gt;NPM&lt;/a&gt; is needed):&lt;/p&gt;
+&lt;p&gt;La información contenida en esta entrada de blog la obtuve personalmente
+realizando el proceso de apostilla de un título de posgrado de la Universidad
+Duisburg-Essen. Esta información pretende ser un punto de partida para
+cualquier persona que desee hacer el proceso, sin embargo, después de
+escribir la entrada, el procedimiento puede cambiar. En consecuencia, es
+recomendable llamar a las oficinas de la &lt;strong&gt;Bezirksregierung Düsseldorf&lt;/strong&gt; para
+estar completamente seguro del proceso.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
+&lt;hr /&gt;
 
-    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
- &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
+&lt;p&gt;Todo colombiano que haya realizado sus estudios de pregrado o posgrado en el
+extranjero debe realizar la convalidación de títulos. Este es el proceso de
+reconocimiento que el Ministerio de Educación Nacional efectúa sobre un título
+de educación superior otorgado por una institución legalmente autorizada en el
+país de origen. Este reconocimiento permite adquirir los mismos efectos
+académicos y legales en Colombia que tienen los títulos otorgados por las
+instituciones de educación superior colombianas.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;: edit ‘Website settings’, ‘author’, ‘comment’ and ‘analytics’ items.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/landing.yml&lt;/strong&gt;: custom sections of index page.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/index/&lt;/strong&gt;: edit sections’ data to yours at index page, please notice comment at each file.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;_data/blog.yml&lt;/strong&gt;: edit navbar(categories) of blog page, if you have different/more blog page, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;blog/python.html&lt;/code&gt; and change it to your category HTML file, and edit &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;/python/&lt;/strong&gt; to your category name at items &lt;strong&gt;title&lt;/strong&gt; and &lt;strong&gt;permalink&lt;/strong&gt;, make sure title is the same as permalink but capitalized first letter(except HTML).&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;CNAME&lt;/strong&gt;: If you wanna release website at your own domain name: edit it and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch; if you want to use &lt;em&gt;github_username.github.io&lt;/em&gt;: leave it blank.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Go to repo’s settings panel, config &lt;strong&gt;GitHub Pages&lt;/strong&gt; section to make sure website is released.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Push changes to your github repository and view your website, done!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Toda la información para llevar a cabo este proceso se encuentra en esta
+&lt;a href=&quot;https://www.mineducacion.gov.co/1759/w3-article-350670.html?_noredirect=1&quot;&gt;página&lt;/a&gt; del Ministerio de Educación.&lt;/p&gt;
 
-&lt;p&gt;From now on, you can post your blog to this website by creating md files at &lt;code class=&quot;highlighter-rouge&quot;&gt;post/&lt;/code&gt; directory and push it to GitHub, you can clear files at this directory before you post blogs.&lt;/p&gt;
+&lt;p&gt;Una lista de chequeo de documentos de convalidaciones se encuentra en este
+&lt;a href=&quot;https://www.mineducacion.gov.co/1759/articles-350670_recurso_9.pdf&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
+&lt;p&gt;En los requisitos generales, los puntos 3 y 4 relacionados con la apostilla
+dicen:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Diploma  del  título  que  se  presenta  para  convalidación,  con  sello  de
+apostilla  o  legalización por vía diplomática según corresponda a la
+normativa del país emisor del título y su traducción oficial cuando el título
+o diploma se encuentre en idioma distinto al castellano en los términos del
+artículo 251 de la Ley 1564 de 2012. La traducción no requiere apostilla o
+legalización por vía diplomática.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Certificado de asignaturas en los términos establecidos en el numeral 6 del
+artículo 2 de la Resolución 010687 del 9 de octubre de 2019. El mencionado
+documento debe contar con sello de apostilla o legalización por vía
+diplomática y su traducción oficial  cuando  el  certificado  se  encuentre
+en  idioma  distinto  al  castellano en  los  términos del artículo 251 de la
+Ley 1564 de 2012. La traducción no requiere apostilla o legalización por vía
+diplomática.Para los programas de Doctorado, que no cuenten con certificado
+de asignaturas, se  debe  radicar  en  su  lugar,  un  certificado  de  las
+actividades  de  investigación  realizadas durante el proceso de formación,
+emitido por la institución que otorga el título. El mencionado documento debe
+contar con sello de apostilla o legalización por vía diplomática y su
+traducción en los términos del artículo 251 de la Ley 1564 de 2012. La
+traducción no requiere apostilla o legalización por vía diplomática.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;De todo el proceso de convalidación, estos son los dos únicos puntos que se
+deben realizar en el país donde se desarrollo el respectivo estudio.
+Para la Universidad Duisburg-Essen, el proceso de apostilla o legalización
+por vía diplomática se debe realizar en la
+&lt;a href=&quot;http://www.brd.nrw.de/index.jsp&quot;&gt;&lt;strong&gt;Bezirksregierung Düsseldorf&lt;/strong&gt;&lt;/a&gt; que
+se encuentra en la dirección
+&lt;a href=&quot;https://www.google.com/maps/place/Am+Bonneshof+35,+40474+D%C3%BCsseldorf/@51.2541702,6.7659337,17z/data=!3m1!4b1!4m5!3m4!1s0x47b8c9e7b20e81d1:0x27365a57943708e3!8m2!3d51.2541669!4d6.7681224&quot;&gt;Am Bonneshof 35, Düsseldorf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para realizar la apostilla, la persona debe tener tanto el diploma del título
+como el certificado de asignaturas debidamente firmado. En general, el diploma
+siempre está firmado, pero el certificado no. Es importante hacerlo firmar por
+el director de programa o por alguien acreditado en la Universidad que tenga la
+autoridad correspondiente. La firma debe llevar el sello de la Universidad y debe
+estar acompañada del nombre en letra legible de la persona que firmó. Antes de
+dirigirse a la oficina de apostilla es recomendable enviar un correo
+electrónico describiendo la situación, añadir los links del programa, los
+correos de los responsables del programa y escanear ambos documentos firmados
+(certificado y diploma) para que ellos se comuniquen con la Universidad y
+confirmen que las firmas son válidas. Esto se debe hacer para no tener que ir
+dos veces a la oficina de apostillas.&lt;/p&gt;
+
+&lt;p&gt;Cuando yo hice el proceso, Frau Hermen (michaela.hermen@brd.nrw.de) y Herr
+Sonnenschein (dirk.sonnenschein@brd.nrw.de) eran los encargados del proceso.
+El correo se puede dirigir a cualquiera de los dos.&lt;/p&gt;
+
+&lt;p&gt;Con los documentos listos y las firmas validadas, se puede dirigir a la oficina
+de apostillas. Los horarios de atención son&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lunes, Martes y Jueves: 08h00 - 12h00&lt;/li&gt;
+  &lt;li&gt;Lunes y Jueves: 13h00 - 15:30&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El costo de la apostilla por cada documento es de 15€ (30€ en total) y la
+apostilla se realiza inmediatamente.&lt;/p&gt;
+
+&lt;p&gt;Toda la información oficial del proceso se encuentra &lt;a href=&quot;http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/duisburg/2020/01/23/3-steps-to-setup-website-with-Jalpc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/duisburg/2020/01/23/3-steps-to-setup-website-with-Jalpc.html</guid>
+        <link>http://localhost:4000/duisburg/2020/01/23/apostilla_udue.html</link>
+        <guid isPermaLink="true">http://localhost:4000/duisburg/2020/01/23/apostilla_udue.html</guid>
         
         <category>Apostilla</category>
         
