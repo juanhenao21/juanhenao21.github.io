@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como apostillar el diploma de la Universidad Duisburg-Essen"
-date:   2020-01-23
+date:   2020-03-16
 desc: "Descripción del procedimiento para realizar la apostilla del título."
 keywords: "Apostilla, Universidad Duisburg-Essen"
 categories: [Duisburg]
