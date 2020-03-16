@@ -96,4 +96,5 @@ de apostillas. Los horarios de atención son
 El costo de la apostilla por cada documento es de 15€ (30€ en total) y la
 apostilla se realiza inmediatamente.
 
-Toda la información oficial del proceso se encuentra [aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html)
+Toda la información oficial del proceso se encuentra
+[aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html)
