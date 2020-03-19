@@ -74,13 +74,14 @@ Para realizar la apostilla, la persona debe tener tanto el diploma del título
 como el certificado de asignaturas debidamente firmado. En general, el diploma
 siempre está firmado, pero el certificado no. Es importante hacerlo firmar por
 el director de programa o por alguien acreditado en la Universidad que tenga la
-autoridad correspondiente. La firma debe llevar el sello de la Universidad y debe
-estar acompañada del nombre en letra legible de la persona que firmó. Antes de
-dirigirse a la oficina de apostilla es recomendable enviar un correo
+autoridad correspondiente. La firma debe llevar el sello de la Universidad y
+debe estar acompañada del nombre en letra legible de la persona que firmó.
+Antes de dirigirse a la oficina de apostilla es recomendable enviar un correo
 electrónico describiendo la situación, añadir los links del programa, los
 correos de los responsables del programa y escanear ambos documentos firmados
 (certificado y diploma) para que ellos se comuniquen con la Universidad y
-confirmen que las firmas son válidas. Esto se debe hacer para no tener que ir
+confirmen que las firmas son válidas. Adicional es bueno incluir la página
+principal del pasaporte escaneada. Esto se debe hacer para no tener que ir
 dos veces a la oficina de apostillas.
 
 Cuando yo hice el proceso, Frau Hermen (michaela.hermen@brd.nrw.de) y Herr
@@ -93,8 +94,21 @@ de apostillas. Los horarios de atención son
 + Lunes, Martes y Jueves: 08h00 - 12h00
 + Lunes y Jueves: 13h00 - 15:30
 
-El costo de la apostilla por cada documento es de 15€ (30€ en total) y la
-apostilla se realiza inmediatamente.
+El costo de la apostilla por cada documento es de 15€ (30€ en total) y todo el
+procedimiento se realiza inmediatamente.
 
 Toda la información oficial del proceso se encuentra
 [aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html)
+
+Finalmente, si el proceso va a ser hecho por un tercero se debe añadir un carta
+de autorización. Es recomendable que el tercero sea mencionado en el email que
+se envía con los documentos firmados. Se debe adjuntar al email la página
+principal del pasaporte del tercero además de la carta de autorización.
+El tercero debe llevar el pasaporte y la carta de autorización en el momento de
+realizar la diligencia. La carta puede ser firmada y escaneada. No es necesario
+enviar la carta original desde le país de origen. Una plantilla de la carta de
+autorización puede ser encontrada en este
+[link](https://juanhenao21.github.io/docs/blog/2020-03-16-carta_autorizacion_apostilla.docx).
+
+No está por demás recordar que toda comunicación oral o escrita para realizar
+este proceso debe ser en idioma alemán.
