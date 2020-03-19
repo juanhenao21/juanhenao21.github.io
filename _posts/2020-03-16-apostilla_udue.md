@@ -54,7 +54,7 @@ dicen:
 > diplomática y su traducción oficial  cuando  el  certificado  se  encuentre
 > en  idioma  distinto  al  castellano en  los  términos del artículo 251 de la
 > Ley 1564 de 2012. La traducción no requiere apostilla o legalización por vía
-> diplomática.Para los programas de Doctorado, que no cuenten con certificado
+> diplomática. Para los programas de Doctorado, que no cuenten con certificado
 > de asignaturas, se  debe  radicar  en  su  lugar,  un  certificado  de  las
 > actividades  de  investigación  realizadas durante el proceso de formación,
 > emitido por la institución que otorga el título. El mencionado documento debe
@@ -92,13 +92,13 @@ Con los documentos listos y las firmas validadas, se puede dirigir a la oficina
 de apostillas. Los horarios de atención son
 
 + Lunes, Martes y Jueves: 08h00 - 12h00
-+ Lunes y Jueves: 13h00 - 15:30
++ Lunes y Jueves: 13h00 - 15h30
 
 El costo de la apostilla por cada documento es de 15€ (30€ en total) y todo el
 procedimiento se realiza inmediatamente.
 
 Toda la información oficial del proceso se encuentra
-[aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html)
+[aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html).
 
 Finalmente, si el proceso va a ser hecho por un tercero se debe añadir un carta
 de autorización. Es recomendable que el tercero sea mencionado en el email que
