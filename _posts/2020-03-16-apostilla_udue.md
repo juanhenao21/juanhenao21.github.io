@@ -11,7 +11,6 @@ icon: fa-file-contract
 
 ---
 **AVISO**
-
 La información contenida en esta entrada de blog la obtuve personalmente
 realizando el proceso de apostilla de un título de posgrado de la Universidad
 Duisburg-Essen. Esta información pretende ser un punto de partida para
@@ -31,7 +30,8 @@ académicos y legales en Colombia que tienen los títulos otorgados por las
 instituciones de educación superior colombianas.
 
 Toda la información para llevar a cabo este proceso se encuentra en esta
-[página](https://www.mineducacion.gov.co/1759/w3-article-350670.html?_noredirect=1) del Ministerio de Educación.
+[página](https://www.mineducacion.gov.co/1759/w3-article-350670.html?_noredirect=1)
+del Ministerio de Educación.
 
 Una lista de chequeo de documentos de convalidaciones se encuentra en este
 [link](https://www.mineducacion.gov.co/1759/articles-350670_recurso_9.pdf).
@@ -100,15 +100,15 @@ procedimiento se realiza inmediatamente.
 Toda la información oficial del proceso se encuentra
 [aquí](http://www.brd.nrw.de/ordnung_gefahrenabwehr/apostillen_beglaubigungen/ApostillenBeglaubigungen.html).
 
-Finalmente, si el proceso va a ser hecho por un tercero se debe añadir un carta
-de autorización. Es recomendable que el tercero sea mencionado en el email que
-se envía con los documentos firmados. Se debe adjuntar al email la página
-principal del pasaporte del tercero además de la carta de autorización.
+Finalmente, si el proceso va a ser hecho por un tercero se debe añadir una
+carta de autorización. Es recomendable que el tercero sea mencionado en el
+email que se envía con los documentos firmados. Se debe adjuntar al email la
+página principal del pasaporte del tercero además de la carta de autorización.
 El tercero debe llevar el pasaporte y la carta de autorización en el momento de
 realizar la diligencia. La carta puede ser firmada y escaneada. No es necesario
 enviar la carta original desde le país de origen. Una plantilla de la carta de
 autorización puede ser encontrada en este
 [link](https://juanhenao21.github.io/docs/blog/2020-03-16-carta_autorizacion_apostilla.docx).
 
-No está por demás recordar que toda comunicación oral o escrita para realizar
-este proceso debe ser en idioma alemán.
+No sobra decir que toda comunicación oral o escrita para realizar este proceso
+debe ser en idioma alemán.
