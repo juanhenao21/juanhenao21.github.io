@@ -1,12 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Response Functions
-  i18n: response_functions
+
+- name: Price Response Functions
+  i18n: price_response_functions
   gh_user: juanhenao21
-  repo: response_functions_year
+  repo: financial_response_spread_year
   img: /static/assets/img/landing/market.jpg
-  desc: Response functions analysis of the year 2008 using NASDAQ TAQ data. All the documentation can be found <a href="https://response-functions-year.readthedocs.io/en/latest/">here</a>.
+  desc: Price response functions analysis of the year 2008 using NASDAQ TAQ data. All the documentation can be found <a href="https://response-functions-year.readthedocs.io/en/latest/">here</a>.
+
+- name: Forex Response Functions
+  i18n: forex_response_functions
+  gh_user: juanhenao21
+  repo: forex_response_spread_year
+  img: /static/assets/img/landing/forex.jpg
+  desc: Price response functions analysis of different years using Hist data. All the documentation can be found <a href="https://forex-response-spread-year.readthedocs.io/en/latest/">here</a>.
 
 - name: Website
   i18n: website
