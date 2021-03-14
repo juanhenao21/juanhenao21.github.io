@@ -44,7 +44,7 @@ En mi caso elegí la
 [Fahrschule Gindera Duisburg](https://www.fahrschule-gindera-duisburg.de/). Mi
 elección se baso en el hecho que podía tramitar la licencia para carro y moto
 al mismo tiempo, que ofrecían el servicio de "Umbschreibung" y que los precios
-eran mejores que la competencia. Una criterio especial para elegir la escuela
+eran mejores que la competencia. Un criterio especial para elegir la escuela
 debe ser el costo de las clases prácticas, ya que dependiendo del nivel que
 tenga el conductor, según mi experiencia, al menos tendrá que hacer tres horas.
 
