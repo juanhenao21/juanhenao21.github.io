@@ -58,7 +58,7 @@ al manubrio para simular la posición aerodinámica. Este detalle mejora
 muchísimo el desempeno sobre la bicicleta.
 
 El verano en Alemania no fue particularmente bueno y la semana de la
-competencia llovió mucho y bajó mucho la temperatura, particularmente la del
+competencia llovió mucho y bajó la temperatura, particularmente la del
 agua. La parte de natación se realizaba en la Regattabahn de Duisburg, una
 especie de lago donde se realizan competencias de remo, canoa, entre otras. La
 temperatura esperada en situación normal era de 23°C, pero esa semana la
@@ -89,7 +89,7 @@ bicicleta lista para la competencia, las llevé el sábado por la tarde y las
 dejé en la posición que me correspondía. Todo el sábado estuvo lloviendo de
 manera intermitente, por lo que no eran buenos los pronósticos para el domingo.
 En ese momento, mi única preocupación era la natación. Yo estaba convencido que
-si salía del agua, el resto iba a ser fácil (o al menor terminable), y no me
+si salía del agua, el resto iba a ser fácil (o al menos terminable), y no me
 equivocaba. El sábado hice una pequena nadada en el lago, el agua estaba
 helada. Estaba tan fría que era difícil respirar. Después de un minuto, la
 temperatura se hizo soportable, pero me preocupaba si tenía la capacidad de
@@ -194,17 +194,17 @@ hacerlo. En ningún momento sentí hambre o un bajón de energías. La transció
 del ciclismo al atletismo fue pésima. Otra vez estaba congelado. Primero me
 quité las medias mojadas y me sequé los pies. Cuando troto distancias largas
 por lo general, me salen ampollas. Por eso normalmente uso cinta deportiva para
-envolver los dedos y evitar las ampollas. Este caso no fue la escepción. El
+envolver los dedos y evitar las ampollas. Este caso no fue la excepción. El
 gran problema es que no pensé en dejar las cintas listas, y los dedos estaban
 tan fríos que no los sentía y no era capaz de cortar la cinta fácilmente.
 Cuando por fin me pude poner las cintas, me puse las medias y los tenis para
-correr. Tuvo que parar la transición para ir al bano porque no aguantaba más.
+correr. Tuve que parar la transición para ir al bano porque no aguantaba más.
 Luego me comí otra papa y cargué los geles para consumir durante la media
 maratón.
 
 La media maratón fue pésima. Cuando llevaba 800m corriendo me dió un calambre
-muy fuerte en el cuádriceps de la pierna izquierda. Menos de 1km de correr, y
-casi no era capaz de moverme. Nunca había tenido un calambre de esos. La cosa
+muy fuerte en el cuádriceps de la pierna izquierda. Con menos de 1km corriendo
+y casi no era capaz de moverme. Nunca había tenido un calambre de esos. La cosa
 no pintaba bien. Traté de caminar un poco pero el músculo no daba. Paré, pensé,
 intenté comenzar otra vez, el calambre aparecía de nuevo. No había signos de
 que fuera a abandonarme en los 20km que me faltaban. Mi objetivo de terminar
@@ -246,8 +246,8 @@ T2: 11m01s
 Atletismo: 2h16m54s
 Tiempo total: 6h11m11s
 
-Falta mucho por mejorar. En la natación hay mucho espacio para obtener mejores
-tiempos, se puede mejorar mucho la técnica y usar traje de neopreno. Sin
+Falta mucho por mejorar. En natación hay mucho espacio para obtener mejores
+tiempos, puedo mejorar mucho la técnica y usar traje de neopreno. Sin
 embargo el tiempo estuvo 4 minutos por debajo de lo esperado. En ciclismo todo
 salió perfecto. Con mejores condiciones posiblemente me habría demorado un poco
 menos, pero igual sigue estando bien. En atletismo lo positivo fue terminar,
