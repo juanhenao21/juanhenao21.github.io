@@ -1,21 +1,22 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a href="https://www.uni-due.de/en/index.php">University of Duisburg-Essen</a>
-    i18n: ude_lecture
+    detail: <a href="https://www.auxmoney.com/">auxmoney GmbH</a>
+    i18n: auxmoney
   desc:
-    detail: During the summer semester I solve the exercises of the
-      <a href="http://www.theo.physik.uni-duisburg-essen.de/tp/ags/guhr_dir/lectures/wiphy.html"> Econophysics course</a>
-      that is coordinated by the <a href="https://www.uni-due.de/physik/ag_guhr/index.php">Research Group Guhr</a>.
-      In the winter semester I teach the Data Analysis Laboratory coordinated by the
-      <a href="https://www.uni-due.de/physik/studium/studies.php">Faculty of Physics</a>.
-    i18n: ude_lecture_desc
+    detail: Analyze business related data to report or improve key factors about the customer-company interaction. Application of Python
+            in different data science projects in the company. Improve the Google AdWords conversion import from externally attributed
+            conversions to improve the selection of users to advertise the product. Implementation of an uplift model to prioritize the
+            customers to be contacted from our sales team. Advance use of git, continuous integration and testing to fulfill the code
+            requirements of the company. Cooperation with senior data scientists to implement relevant code for the company. Use of SQL
+            to create tables for different data analysis relevant for the projects of the team.
+    i18n: auxmoney_desc
   date:
-    detail: April, 2019 - Present
-    i18n: ude_lecture_date
+    detail: August, 2020 - January, 2021
+    i18n: auxmoney_date
   job:
-    detail: Econophysics exercises and data analysis laboratory - Lecturer
-    i18n: ude_lecture_job
+    detail: Business Intelligence - Intern
+    i18n: auxmoney_job
   icon: fa-plus-square
   present: true
 
@@ -36,6 +37,39 @@
     i18n: ude_phd_job
   icon: fa-plus-square
   present: true
+
+- name:
+    detail: <a href="https://www.bundesbank.de/en">Deutsche Bundesbank</a>
+    i18n: bundesbank
+  desc:
+    detail: Here I made an interesting research related to the practical application of physics concepts in a central bank-specific context.
+            My first professional experience in Germany.
+    i18n: bundesbank_desc
+  date:
+    detail: April, 2021 - July, 2021
+    i18n: bundesbank_date
+  job:
+    detail: Research Intern
+    i18n: bundesbank_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://www.uni-due.de/en/index.php">University of Duisburg-Essen</a>
+    i18n: ude_lecture
+  desc:
+    detail: During the summer semester I solved the exercises of the
+      <a href="http://www.theo.physik.uni-duisburg-essen.de/tp/ags/guhr_dir/lectures/wiphy.html"> Econophysics course</a>
+      that is coordinated by the <a href="https://www.uni-due.de/physik/ag_guhr/index.php">Research Group Guhr</a>.
+      In the winter semester I taught the Data Analysis Laboratory coordinated by the
+      <a href="https://www.uni-due.de/physik/studium/studies.php">Faculty of Physics</a>.
+    i18n: ude_lecture_desc
+  date:
+    detail: April, 2019 - April, 2021
+    i18n: ude_lecture_date
+  job:
+    detail: Econophysics exercises and data analysis laboratory - Lecturer
+    i18n: ude_lecture_job
+  icon: fa-plus-square
 
 - name:
     detail: <a href="http://unal.edu.co/en.html">National University of Colombia at Manizales</a>
