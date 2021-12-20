@@ -29,9 +29,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-line-graph
     - name: icon-git
-  desc: I am a Colombian guy who enjoys to learn, travel and practice sports. I made my B. Sc. and my M. Sc. in the Universidad Nacional de Colombia at Manizales.
-        During my master I lived around one year in Montreal. I worked as lecturer in the Universidad Nacional de Colombia at Manizales and the Universidad Autónoma de Manizales. Currently, I am a Ph. D. student at the University of Duisburg-Essen in Germany. In this website I want to show you a little of my professional
-        life and share some experiences and knowdlege. # Describe yourself.
+  desc: Data scientist with strong background in physics, complex systems and statistics. Experience of +4 years using Python for data analysis,
+        machine learning and teaching. Advance use of Git and Continuous Integration for a healthy software development life cycle. I am in the last
+        step of my PhD studies in the University of Duisburg-Essen in Germany. Currently I am looking for a full time job position in an area related
+        with data science, data analysis or similar. I am a Colombian who enjoys to learn, travel and practice sports. In this website I want to show
+        you a little of my professional life and share some experiences and knowledge. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
